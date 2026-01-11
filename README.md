@@ -1,4 +1,4 @@
-# system-setup-docs
+# System Setup Docs
 
 This repository contains **system setup and configuration guides** for macOS and developer environments.  
 It is intended for operational setup purposes (installing tools, configuring environments, managing JDKs, etc.).
