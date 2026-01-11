@@ -8,7 +8,7 @@ It is intended for operational setup purposes (installing tools, configuring env
 ## Table of Contents
 
 ### macOS Setup
-- [Java & jenv Setup](macos/java-jenv.md) ✅
+- [Java & Jenv Setup](macos/java-jenv.md) ✅
 
 ### Scripts
 - [System Bootstrap Script](scripts/system-bootstrap.sh) (optional)
